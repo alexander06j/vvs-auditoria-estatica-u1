@@ -1,0 +1,32 @@
+{
+  "name": "vvs-auditoria-estatica-u1",
+  "version": "1.0.0",
+  "description": "Auditoría estática de un módulo JavaScript: requisitos, inspección por pares y detección temprana de defectos (VVS Unidad 1)",
+  "main": "src/descuentos.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "lint": "eslint src/",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexander06j/vvs-auditoria-estatica-u1.git"
+  },
+  "keywords": [
+    "vvs",
+    "auditoria-estatica",
+    "eslint",
+    "inspeccion-fagan"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexander06j/vvs-auditoria-estatica-u1/issues"
+  },
+  "homepage": "https://github.com/alexander06j/vvs-auditoria-estatica-u1#readme",
+  "devDependencies": {
+    "eslint": "^10.15.0"
+  }
+}
