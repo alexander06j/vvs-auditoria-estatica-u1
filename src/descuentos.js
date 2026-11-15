@@ -7,3 +7,4 @@ function calcularDescuento(precio, porcentaje, esVip) {
 }
 
 module.exports = { calcularDescuento };
+
